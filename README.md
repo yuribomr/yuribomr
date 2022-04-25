@@ -1,10 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Yuri</h1>
 <h3 align="center">Um desenvolvedor do Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuribomr&label=Profile%20views&color=0e75b6&style=flat" alt="yuribomr" /> </p>
-
-<p align="left"> <a href="https://twitter.com/yuriibomr" target="blank"><img src="https://img.shields.io/twitter/follow/yuriibomr?logo=twitter&style=for-the-badge" alt="yuriibomr" /></a> </p>
-
 - 🔭 Estou trabalhando em uma [Pokédex.](https://github.com/yuribomr/pokedex)
 
 - 🌱 Estou aprendendo **Javascript, logo mais React.**
