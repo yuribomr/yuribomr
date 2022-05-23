@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Yuri</h1>
-<h3 align="center">Um desenvolvedor Front-End do Brasil, em busca de uma vaga no mercado</h3>
+<h3 align="center">Um desenvolvedor, em busca de uma vaga no mercado</h3>
 
 - 🌱 Estou aprendendo **C#**
 
