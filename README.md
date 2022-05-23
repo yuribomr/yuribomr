@@ -1,9 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Yuri</h1>
 <h3 align="center">Um desenvolvedor Front-End do Brasil, em busca de uma vaga no mercado</h3>
 
-- 🔭 Estou trabalhando em uma [Pokédex.](https://github.com/yuribomr/pokedex)
-
-- 🌱 Estou aprendendo **Javascript, logo mais React.**
+- 🌱 Estou aprendendo **C#**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/yuribomr/](https://github.com/yuribomr/)
 
