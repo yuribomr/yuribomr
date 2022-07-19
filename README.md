@@ -7,7 +7,7 @@
 
 - 📫 Me manda uma mensagem por: **yuribomr@gmail.com**
 
-- ⚡ Coisa aleatória **Gosto de tocar guitarra, violão, teclado, cavaquinho.**
+- ⚡ Coisa aleatória **Gosto de tocar guitarra e violão**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
