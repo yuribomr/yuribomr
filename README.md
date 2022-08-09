@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Yuri</h1>
 <h3 align="center">Um desenvolvedor, em busca de uma vaga no mercado</h3>
 
-- 🌱 Desenvolvendo habilidades em **Análise de Dados**
+- 🌱 Desenvolvendo habilidades em **ReactJS**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/yuribomr/](https://github.com/yuribomr/)
 
