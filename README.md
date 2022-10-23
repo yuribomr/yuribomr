@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Yuri</h1>
 <h3 align="center">Um desenvolvedor, em busca de uma vaga no mercado</h3>
 
-- 🌱 Desenvolvendo habilidades em **Python**
+- 🌱 Desenvolvendo habilidades em **C#**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/yuribomr/](https://github.com/yuribomr/)
 
