@@ -1,7 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Yuri</h1>
 
-- 🌱 Desenvolvendo habilidades em **C++**
-
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/yuribomr/](https://github.com/yuribomr/)
 
 - 📫 Me manda uma mensagem por: **yuribomr@gmail.com**
